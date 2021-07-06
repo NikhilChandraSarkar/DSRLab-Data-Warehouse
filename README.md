@@ -6,7 +6,7 @@ This GitHub repository contains code samples that demonstrate how to use Microso
 # DSRLab Vehicle Crashes Database v1.0
 DSRLab runs Microsoft SQL Server 2019 in Microsoft SQL Server Management Studio interface and Microsoft SQL Server Integration Servicess in Visual Studio to build vehicle crashes database from the data source of Queensland's state controlled road networks. For details see the following artifacts:
 
-### DSRLabDW.bak - full database for OLAP (OnLine Analytical Processing).
+### DSRLabDW_Full.bak - full database for OLAP (OnLine Analytical Processing) here is the link: [dsrlab_vehiclecrash_database.zip](dsrlab_vehiclecrash_database.zip).
 
 ## Vehicle crashes database is generated from TMR Open Data Release Program. Here is the details.
 
