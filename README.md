@@ -1,7 +1,7 @@
 ![](C:/Users/61470/Desktop/.png)
 
 # DSRLab Data Warehouse Repository
-This GitHub repository contains code samples that demonstrate how to use Microsoft SQL Server, Microsoft SQL Server Management Studio, Microsoft SQL Sever Integration Services to build up a Data Warehouse for Data Simulation Research Lab (DSRLab). Each sample includes a README file that explains how to run and use the sample.
+This GitHub repository contains code samples that demonstrate how to use Microsoft SQL Server, Microsoft SQL Server Management Studio, Microsoft SQL Sever Integration Services to build up a Data Warehouse for Data Simulation Research Lab (DSRLab).
 
 # DSRLab Vehicle Crashes Database v1.0
 DSRLab runs Microsoft SQL Server 2019 in Microsoft SQL Server Management Studio interface and Microsoft SQL Server Integration Servicess in Visual Studio to build vehicle crashes database from the data source of Queensland's state controlled road networks. For details see the following artifacts:
